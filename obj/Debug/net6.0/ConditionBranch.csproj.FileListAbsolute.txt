@@ -1,0 +1,15 @@
+I:\CA\VideoTutorials\CSharpNet\Source\ConditionBranch\bin\Debug\net6.0\ConditionBranch.exe
+I:\CA\VideoTutorials\CSharpNet\Source\ConditionBranch\bin\Debug\net6.0\ConditionBranch.deps.json
+I:\CA\VideoTutorials\CSharpNet\Source\ConditionBranch\bin\Debug\net6.0\ConditionBranch.runtimeconfig.json
+I:\CA\VideoTutorials\CSharpNet\Source\ConditionBranch\bin\Debug\net6.0\ConditionBranch.dll
+I:\CA\VideoTutorials\CSharpNet\Source\ConditionBranch\bin\Debug\net6.0\ConditionBranch.pdb
+I:\CA\VideoTutorials\CSharpNet\Source\ConditionBranch\obj\Debug\net6.0\ConditionBranch.csproj.AssemblyReference.cache
+I:\CA\VideoTutorials\CSharpNet\Source\ConditionBranch\obj\Debug\net6.0\ConditionBranch.GeneratedMSBuildEditorConfig.editorconfig
+I:\CA\VideoTutorials\CSharpNet\Source\ConditionBranch\obj\Debug\net6.0\ConditionBranch.AssemblyInfoInputs.cache
+I:\CA\VideoTutorials\CSharpNet\Source\ConditionBranch\obj\Debug\net6.0\ConditionBranch.AssemblyInfo.cs
+I:\CA\VideoTutorials\CSharpNet\Source\ConditionBranch\obj\Debug\net6.0\ConditionBranch.csproj.CoreCompileInputs.cache
+I:\CA\VideoTutorials\CSharpNet\Source\ConditionBranch\obj\Debug\net6.0\ConditionBranch.dll
+I:\CA\VideoTutorials\CSharpNet\Source\ConditionBranch\obj\Debug\net6.0\refint\ConditionBranch.dll
+I:\CA\VideoTutorials\CSharpNet\Source\ConditionBranch\obj\Debug\net6.0\ConditionBranch.pdb
+I:\CA\VideoTutorials\CSharpNet\Source\ConditionBranch\obj\Debug\net6.0\ConditionBranch.genruntimeconfig.cache
+I:\CA\VideoTutorials\CSharpNet\Source\ConditionBranch\obj\Debug\net6.0\ref\ConditionBranch.dll
